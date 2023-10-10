@@ -1,0 +1,4 @@
+-npm create vite@latest client
+-npm install
+-follow instruction (https://tailwindcss.com/docs/guides/vite)
+-remove items on /public/.svg and assets/.svg and /app.css
